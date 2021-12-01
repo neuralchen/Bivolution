@@ -16,20 +16,28 @@ Extensive experiments illustrate that the ResNet-50 equipped with Bi-volution ac
 
 ## Related Projects
 
-**Please visit our another ACMMM2020 high-quality style transfer project**
+***Please visit our popular face swapping project***
+
+[![logo](./docs/img/simswap.png)](https://github.com/neuralchen/SimSwap)
+
+***Please visit our high resolution face dataset VGGFace2-HQ***
+
+[![logo](./docs/img/VGGFace2-HQ.png)](https://github.com/NNNNAI/VGGFace2-HQ)
+
+***Please visit our another ACMMM2020 high-quality style transfer project***
 
 [![logo](./docs/img/logo.png)](https://github.com/neuralchen/ASMAGAN)
 
 [![title](/docs/img/title.png)](https://github.com/neuralchen/ASMAGAN)
 
-**Please visit our AAAI2021 sketch based rendering project**
+***Please visit our AAAI2021 sketch based rendering project***
 
 [![logo](./docs/img/girl2.gif)](https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale)
 [![title](/docs/img/girl2-RGB.png)](https://github.com/TZYSJTU/Sketch-Generation-with-Drawing-Process-Guided-by-Vector-Flow-and-Grayscale)
 
-**Please visit our high resolution face dataset VGGFace2-HQ**
 
-[![logo](./docs/img/vggface2_hq_compare.png)](https://github.com/NNNNAI/VGGFace2-HQ)
+
+
 
 Learn about our other projects 
 
