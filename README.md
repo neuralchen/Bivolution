@@ -3,6 +3,8 @@ Accepted by AAAI2022
 
 **The official repository with Pytorch**
 
+We are working on the final version paper, and the code will be avaliable soon!
+
 ## Abstract
 
 Dynamic convolution has achieved significant gain in performance and computational complexity, thanks to its powerful representation capability given limited filter number/layers.
