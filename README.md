@@ -1,5 +1,5 @@
 # Bi-volution: A Static and Dynamic Coupled Filter
-Accepted by AAAI2022
+### Accepted by AAAI2022
 
 **The official repository with Pytorch**
 
