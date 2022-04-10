@@ -1,6 +1,8 @@
 # Bi-volution: A Static and Dynamic Coupled Filter
 ### Accepted by AAAI2022
 
+[[AAAI Link]](https://aaai-2022.virtualchair.net/poster_aaai2015)
+
 **The official repository with Pytorch**
 
 We are working on the final version paper, and the code will be avaliable soon!
